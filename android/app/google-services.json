@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677744103677",
+    "project_id": "the-chart-crew",
+    "storage_bucket": "the-chart-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677744103677:android:3a5d248f0a136b67b2ee94",
+        "android_client_info": {
+          "package_name": "com.chartCrew.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677744103677-g24mnhqv1g9iuha9aqm4ou24r0h1vau2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chartCrew.textme",
+            "certificate_hash": "79ecd8f3fa965b4803be74637bfe3133ad5b40a1"
+          }
+        },
+        {
+          "client_id": "677744103677-fi02tg7ubd11o0bnbs0efrn0kfk9vej3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pjrLfnSMavfz9NvaE45mlhj0plGUq8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677744103677-fi02tg7ubd11o0bnbs0efrn0kfk9vej3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
